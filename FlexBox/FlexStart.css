@@ -1,0 +1,16 @@
+ul{
+    background-color: lightslategray;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+li{
+    text-align: center;
+    list-style: none;
+    background-color: lightseagreen;
+    padding: 20px;
+    margin: 20px;
+    width: 100px;
+}

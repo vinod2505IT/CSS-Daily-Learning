@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+section{
+    background-color: lightslategray;
+    padding: 2rem;
+    width: 300px;
+    margin: 30px;
+}
+.content{
+    background-color: lightskyblue;
+    padding: 20px;
+}
